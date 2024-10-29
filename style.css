@@ -1,0 +1,139 @@
+.bodyindex {
+	text-align: center;
+	font-family: "Protest Guerrilla", sans-serif;
+	background-image: url(fundoindex.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+.bodygeopla {
+	text-align: center;
+	background-image: url(geoplan/fundogeoplan.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bodygeoesp {
+	text-align: center;
+	background-image: url(geoesp/fundogeoesp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.bodygeoesp {
+	text-align: center;
+	background-image: url(geoesp/fundogeoesp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.bodyduv {
+	text-align: center;
+	background-image: url(fundoduv.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 	{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	}
+
+h2 	{
+	font-weight: bold;	
+	font-size: 40px;
+	font-style: italic;
+	}
+
+.home {
+	background-color: white;
+}
+.geoplana {
+	background-color: rgb(240, 147, 147);
+}
+.geoespacial {
+		background-color: rgb(19, 143, 245);
+}	
+.duv {
+	background-color: rgb(148, 241, 184);
+}
+.imagemoutras {
+	width: 10%
+}
+p 	{
+	font-size: 20px;
+}
+
+.materias{
+	width: 1040px;
+	margin: 0 auto;
+	padding: 50px 0;
+	
+}
+
+.materias li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 50px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 100px;
+}
+.materias img {
+	width: 150px;
+	height: 150px;
+}
+
+.materias a {
+	font-size: 30px;
+	font-weight: bold;
+	display: block;
+	text-align: center;
+	padding: 30px 20px;
+	color: red;
+}
+
+.link{
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.link li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 5px 10px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.link a {
+	display: block;
+	text-align: center;
+	padding: 30px 20px;
+	color: red;
+}
+
+.ilusao {
+	margin: 0 auto;
+}
+
+.ilusao li {
+	display: inline-block;
+	margin: 0 0%;
+	width: 165px;
+   	
+}
+
+footer {
+	text-align: center;
+	background: url(logos/back.avif);
+	padding: 40px;
+	color: palevioletred;
+}
+
